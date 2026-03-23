@@ -93,7 +93,7 @@ jupyter notebook ch13/transformer_pytorch.ipynb
 |------|------|
 | iRead 灰熊愛讀書 | https://www.iread.com.tw/Detail/ProdDetail/B001179561 |
 | BOOKWALKER | https://www.bookwalker.com.tw/product/290992 |
-| Readmoo 讀墨 | https://reurl.cc/8eW8YX |
+| Google Play 圖書 | https://reurl.cc/8eW8YX |
 
 ## 授權
 
